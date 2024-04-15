@@ -6,3 +6,6 @@ Fiz um estudo aprofundado no uso de isNaN() cujo necessário para determinar se 
 
 <img src=devsorteio.png>
 
+
+Segue link do resultado: https://jackdanielslz190.github.io/DevSorteio/
+
